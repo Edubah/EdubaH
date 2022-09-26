@@ -20,5 +20,5 @@
   <a href = "mailto:santos.edu@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
     <a href = "https://github.com/Edubah"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Edubah/EdubaH/blob/output/github-contribution-grid-snake.svg)
 </div>
