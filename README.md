@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EdubaH/EdubaH/raw/main/assets/header-github.gif" alt="Hi, I'm Eduardo">
+  <img src="https://github.com/edubah/edubah/raw/main/assets/header-github.gif" alt="Hi, I'm Eduardo">
 </p>
 
 - 🔭 I am currently working as **technical support.**
