@@ -45,7 +45,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edubah&" alt="edubah" /></p>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EdubaH)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EdubaH)  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edubah&label=Profile%20views&color=0e75b6&style=flat" alt="edubah" /> </p>
+
 
 
 #### Connect with me:
