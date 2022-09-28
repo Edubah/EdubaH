@@ -1,5 +1,6 @@
 <p align="center">
-  <img src=""
+  <img src="https://github.com/EdubaH/EdubaH/raw/main/assets/header-github.gif" alt="Hi, I'm Eduardo">
+</p>
 
 - 🔭 I am currently working as **technical support.**
 - 🌱 I’m currently learning **.Net, React, JavaScript, C#, Python and Linux**
