@@ -5,7 +5,7 @@
 <br>
 
 - 🔭 I am currently working as **technical support.**
-- 🌱 I’m currently learning **.Net, React, JavaScript, C#, Python and Linux**
+- 🌱 I’m currently learning **.Net Core, Angular, React, JavaScript, C#, Python and Linux**
 - 👯 I am looking to collaborate with **development, machine learning and project automation**
 - 🤝 I’m looking for help with **programming, development and linux**
 - 💬 Ask me about **Python, for now**
@@ -48,9 +48,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edubah&" alt="edubah" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EdubaH)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EdubaH)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EdubaH)   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edubah&label=Profile%20views&color=0e75b6&style=flat" alt="edubah" /> </p>
 
