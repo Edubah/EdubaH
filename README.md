@@ -14,7 +14,6 @@
 - ⚡ Fun fact about me **I love volleyball and basketball, also small development programs to help my laziness.**
 
 <br>
-<br>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&multiline=true&width=450&height=65&lines=Always+studying+to+overcome+my+limits;+and+realize+my+dreams!" alt="Typing SVG" /></a>
