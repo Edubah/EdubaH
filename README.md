@@ -78,31 +78,33 @@
 
 #### 📊 **GitHub Stats**
 
+<p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=EdubaH&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical"
+    src="https://github-stats-extended.vercel.app/api?username=EdubaH&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_red"
     alt="Eduardo's GitHub Stats"
     height="170"
   />
+</p>
 
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=EdubaH&langs_count=4&theme=radical"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=EdubaH&langs_count=4&theme=shadow_red"
     alt="Eduardo's Top Languages"
     height="170"
   />
 </p>
 
-<p align="center">
+<p align="Left">
   <a href="https://github.com/EdubaH">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-      alt="GitHub"
-      width="45"
-      height="45"
+      src="https://github.com/EdubaH.png"
+      alt="GitHub Profile"
+      width="50"
+      height="50"
     />
   </a>
 </p>
 
-<p align="center">
+<p align="Left">
   <img
     src="https://komarev.com/ghpvc/?username=edubah&label=Profile%20views&color=0e75b6&style=flat"
     alt="Profile views"
