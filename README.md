@@ -76,18 +76,60 @@
   
 </details>
 
-#### 📊 **Github Stats**
+#### 📊 **GitHub Stats**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edubah&show_icons=true&locale=en&layout=compact" alt="edubah" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=EdubaH&show_icons=true&hide_border=true&theme=dark"
+    alt="Eduardo's GitHub Stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdubaH&layout=compact&hide_border=true&theme=dark"
+    alt="Eduardo's Top Languages"
+    height="170"
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edubah&show_icons=true&locale=en" alt="edubah" /></p>
+<p align="center">
+  <a href="https://github.com/EdubaH">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+      alt="GitHub"
+      width="45"
+      height="45"
+    />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edubah&" alt="edubah" /></p>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=edubah&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EdubaH)   
+#### Connect with me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edubah&label=Profile%20views&color=0e75b6&style=flat" alt="edubah" /> </p>
+<p align="left">
+  <a href="https://linkedin.com/in/eduardo-santos-591631129/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
 
+  <a href="https://www.instagram.com/devcyberduu/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram"
+      height="30"
+      width="40"
+    />
+  </a>
+</p>
 
 
 #### Connect with me:
