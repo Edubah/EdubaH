@@ -78,16 +78,14 @@
 
 #### 📊 **GitHub Stats**
 
-<p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=EdubaH&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_red"
+    src="https://github-stats-extended.vercel.app/api?username=EdubaH&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical"
     alt="Eduardo's GitHub Stats"
     height="170"
   />
-</p>
 
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=EdubaH&langs_count=4&theme=shadow_red"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=EdubaH&langs_count=4&theme=radical"
     alt="Eduardo's Top Languages"
     height="170"
   />
