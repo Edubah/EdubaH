@@ -1,60 +1,114 @@
-<p align="center">
-  <img src="https://github.com/edubah/edubah/raw/main/assets/header-github.gif" alt="Hi, I'm Eduardo">
-</p>
+# 👋 Hi, I'm Eduardo Santos!
 
-<br>
+💻 **Systems Analyst | Developer | Automation Enthusiast**
 
-- 🔭 I am currently working as **technical support.**
-- 🌱 I’m currently learning **.Net Core, Angular, React, JavaScript, C#, Python and Linux**
-- 👯 I am looking to collaborate with **development, machine learning and project automation**
-- 🤝 I’m looking for help with **programming, development and linux**
-- 💬 Ask me about **Python, for now**
-- 📫 How to reach me **santos.edu@outlook.com.br**
-- 📄 Know about my experiences [https://www.linkedin.com/in/eduardo-santos-591631129/](https://www.linkedin.com/in/eduardo-santos-591631129/)
-- ⚡ Fun fact about me **I love volleyball and basketball, also small development programs to help my laziness.**
+I'm a technology professional interested in **software development, automation, infrastructure and problem solving**.
 
-<br>
+I enjoy turning repetitive tasks into small tools, learning new technologies and building things that make everyday work easier.
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&multiline=true&width=450&height=65&lines=Always+studying+to+overcome+my+limits;+and+realize+my+dreams!" alt="Typing SVG" /></a>
-</p>
+Currently, I'm focused on improving my skills in **.NET, C#, Python, JavaScript, React, Angular and Linux**.
 
-<br>
-<br>
+---
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Some Languages&nbsp;and&nbsp;Tools I use</b></summary>
+## 🚀 What I'm Working On
 
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-  
-</details>
+* 🔭 Working with **Technical Support**
+* 🌱 Currently learning **.NET Core, Angular, React, JavaScript, C#, Python and Linux**
+* 🤖 Interested in **automation, software development and machine learning**
+* 🛠️ Building small tools and projects to solve real-world problems
+* 📚 Always learning and experimenting with new technologies
 
-#### 📊 **Github Stats**
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edubah&show_icons=true&locale=en&layout=compact" alt="edubah" /></p>
+## 🧰 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edubah&show_icons=true&locale=en" alt="edubah" /></p>
+### Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edubah&" alt="edubah" /></p>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EdubaH)   
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edubah&label=Profile%20views&color=0e75b6&style=flat" alt="edubah" /> </p>
-
-
-
-#### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/eduardo-santos-591631129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo santos" height="30" width="40" /></a>
-<a href="https://www.instagram.com/devcyberduu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eaeweduu" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
+</p>
+
+### Frameworks & Development
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" alt="Angular"/>
+</p>
+
+### Database & Infrastructure
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edubah&show_icons=true&hide_border=true&locale=en" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edubah&layout=compact&hide_border=true&locale=en" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edubah&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+C# / .NET       ███████████████░░░░░
+Python          █████████████████░░░
+JavaScript      ████████████░░░░░░░░
+React           ██████████░░░░░░░░░░
+Angular         █████████░░░░░░░░░░░
+Linux           ████████████░░░░░░░░
+Machine Learning███████░░░░░░░░░░░░░
+```
+
+---
+
+## ⚡ A Little About Me
+
+I love **volleyball and basketball**, and I have a particular weakness for creating small programs that automate annoying or repetitive tasks.
+
+If something can be automated, I'll probably end up asking:
+
+> *"Why am I doing this manually?"* 😅
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/eduardo-santos-591631129/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.instagram.com/devcyberduu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30" alt="Instagram"/>
+  </a>
+
+  <a href="mailto:santos.edu@outlook.com.br">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" width="30" height="30" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Always studying to overcome my limits and realize my dreams."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edubah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
